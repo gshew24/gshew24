@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Griffin Shewbart
+========================================================================================================================================
 
-<!--
-**gshew24/gshew24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student at the University of North Alabama
+------------------------------------------
 
-Here are some ideas to get you started:
+*   🌍  I'm based in Florence, Alabama
+*   My LinkedIn Profile: https://www.linkedin.com/in/griffin-shewbart-86a4342a4/
+*   ✉️  You can contact me at [gshewbart@una.edu](mailto:gshewbart@una.edu)
+------------------------------------------------------------------------------------------------------------------------------
+Here is a link to one of my sample projects!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://github.com/gshew24/birdseye-view-app.git
+------------------------------------------------------------------------------------------------------------------------------
+![image](https://github.com/user-attachments/assets/9749d79d-0657-4ba6-90da-e220d917ae61)
+
